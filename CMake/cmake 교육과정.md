@@ -1,5 +1,3 @@
-
-   - [파이썬 인터프리터 확장 및 내장](https://docs.python.org/ko/3/extending/) : [github 코드](https://github.com/jalan/spam)
    - CMake 기초
       - [CMake 기초](https://www.kudryavka.me/?p=758)
       - [CMake 튜토리얼 1. CMake 소개와 예제, 내부 동작 원리](https://www.tuwlab.com/ece/27234)
