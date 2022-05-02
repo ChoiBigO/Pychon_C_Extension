@@ -1,0 +1,10 @@
+
+   - [파이썬 인터프리터 확장 및 내장](https://docs.python.org/ko/3/extending/) : [github 코드](https://github.com/jalan/spam)
+   - CMake 기초
+      - [CMake 기초](https://www.kudryavka.me/?p=758)
+      - [CMake 튜토리얼 1. CMake 소개와 예제, 내부 동작 원리](https://www.tuwlab.com/ece/27234)
+      - [CMake 튜토리얼 2. CMakeLists.txt 주요 명령과 변수 정리](https://www.tuwlab.com/27260)
+      - [CMake 튜토리얼 3. CMakeLists.txt 기본 패턴](https://www.tuwlab.com/27270)
+   - [Scikit-build: A Build System Generator for CPython C/C++/Fortran/Cython Extensions | SciPy 2018](https://www.youtube.com/watch?v=QVkg-cC5oe4)
+   - [scikit-build - Sample Projects](https://github.com/scikit-build/scikit-build-sample-projects/tree/master/projects)
+   - [OpenCV 빌드하기](https://pebble-softball-652.notion.site/OpenCV-4-5-3-CUDA-IPP-8dff66ed00ec40008a3b1a80e6822c8f) : [CMake 구성 예시](https://gist.github.com/joonhwan/85a1cd152b0af749a36a19de438b1a75)
